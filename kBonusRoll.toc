@@ -1,0 +1,9 @@
+## Interface: 70300
+## Title: kBonusRoll
+## Author: Kulldam
+## Notes: Assistance with managing bonus rolls in dungeons, raids, and world events.
+## Version: 1.0.0
+## SavedVariables: kBonusRollDB
+
+embeds.xml
+core.lua
