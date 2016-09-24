@@ -48,3 +48,6 @@ libs/
 
 # Changelogs
 Changelog-*.txt
+
+# Localization Autogenerator
+UpdateLocalization.php

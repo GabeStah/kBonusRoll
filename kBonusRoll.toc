@@ -2,8 +2,15 @@
 ## Title: kBonusRoll
 ## Author: Kulldam
 ## Notes: Assistance with managing bonus rolls in dungeons, raids, and world events.
-## Version: 1.0.0
+## Version: 1.0.5
 ## SavedVariables: kBonusRollDB
 
 embeds.xml
+
+Localization.lua
 core.lua
+core\Difficulty.lua
+core\Encounter.lua
+core\Instance.lua
+core\Item.lua
+core\Tier.lua
